@@ -14,7 +14,7 @@ The labs include applied examples using natural language processing models and A
 
 ## Repository Structure
 
-```text
+```
 .
 ├── course_1_analyze_datasets_train_ml_models_automl/
 ├── course_2_build_train_deploy_ml_pipelines_bert/
