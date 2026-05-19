@@ -19,7 +19,7 @@ The labs include applied examples using natural language processing models and A
 ├── course_1_analyze_datasets_train_ml_models_automl/
 ├── course_2_build_train_deploy_ml_pipelines_bert/
 └── course_3_optimize_ml_models_human_in_the_loop/
-```text
+```
 
 
 <img width="1260" height="630" alt="Screenshot from 2026-05-19 18-06-23" src="https://github.com/user-attachments/assets/4ed04838-bf7c-4a63-a122-2b25cc77bcd1" />
