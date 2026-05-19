@@ -49,7 +49,7 @@ The course also introduces human-in-the-loop machine learning workflows using Am
 
 ## Certificate
 
-Specialization certificate: [Add certificate link here]
+Specialization certificate: https://www.coursera.org/account/accomplishments/specialization/certificate/2ULDC4EDRDJK
 
 ## Attribution
 
